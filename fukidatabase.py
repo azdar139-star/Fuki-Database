@@ -1,6 +1,3 @@
-ase.py‎
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,81 @@
 import os, requests, time, sys
 # Professional Dark Colors
 R = '\033[1;31m' ; G = '\033[1;32m' ; Y = '\033[1;33m'
